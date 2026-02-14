@@ -157,4 +157,13 @@ Ranges are **inclusive start, exclusive end**:
 
 ## License
 
-MIT
+MIT License - see [LICENSE](LICENSE)
+
+Copyright (c) 2026 [Node2Flow](https://node2flow.net)
+
+## Links
+
+- [npm Package](https://www.npmjs.com/package/@node2flow/google-sheets-mcp)
+- [Google Sheets API](https://developers.google.com/sheets/api)
+- [MCP Protocol](https://modelcontextprotocol.io/)
+- [Node2Flow](https://node2flow.net)
